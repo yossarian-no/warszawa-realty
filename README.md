@@ -45,7 +45,7 @@ Celem jest odpowiedź na pytania, które zadaje sobie zarówno osoba szukająca 
 ## 📊 Dane
 
 Główne źródło: [Apartment Prices in Poland](https://www.kaggle.com/datasets/krzysztofjamroz/apartment-prices-in-poland) (Kaggle)
-- comiesięczne oferty najmu i sprzedaży mieszkań z 15 największych miast Polski (sierpień 2023 – czerwiec 2024),
+- comiesięczne oferty mieszkań z 15 największych miast Polski: sprzedaż (sierpień 2023 – czerwiec 2024) i najem (listopad 2023 – czerwiec 2024),
 - parametry mieszkań oraz odległości do punktów zainteresowania (OpenStreetMap),
 - do analizy wybierane są oferty z Warszawy.
 
