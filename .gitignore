@@ -1,0 +1,25 @@
+# Dane (pobierane z Kaggle — nie trzymamy ich w repo)
+data/raw/*
+data/external/*
+data/processed/*
+!data/**/.gitkeep
+
+# Baza DuckDB
+*.duckdb
+*.duckdb.wal
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Klucz API Kaggle
+kaggle.json
+
+# System / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
